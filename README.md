@@ -127,11 +127,11 @@ nano .env
 
 ```bash
 DATA_DIRECTORY=./data
-COINBASE=<你的新以太坊0x地址>
+COINBASE=<钱包0x地址>
 LOG_LEVEL=debug
 YOUR_RPC_ENDPOINT="http://localhost:8545" # 如果以太坊节点运行在同一 WSL 实例且端口已映射
 YOUR_CONSENSUS_ENDPOINT="http://localhost:5052" # 如果共识节点运行在同一 WSL 实例且端口已映射
-YOUR_VALIDATOR_PRIVATE_KEY=<你的新以太坊账户私钥字符串，不带0x前缀>
+YOUR_VALIDATOR_PRIVATE_KEY=<钱包私钥，不带0x前缀>
 YOUR_IP_ADDRESS=<你的 Windows 主机的公网 IP 地址>
 ```
 
