@@ -1,5 +1,3 @@
-# aztec_rpc_wsl
-
 ## WSL 上安装 Aztec 测试网节点和rpc的步骤：
 
 ### 0. 打开你的 WSL 终端
